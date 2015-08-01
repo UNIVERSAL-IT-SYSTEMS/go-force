@@ -1,7 +1,7 @@
 package force
 
 import (
-	"github.com/nimajalali/go-force/sobjects"
+	"github.com/coreos/go-force/sobjects"
 	"testing"
 )
 
